@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: Spacewalk Analysis
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Bao Tran
+    family-names: Le
+    email: btl094@uowmail.edu.au
+repository-code: >-
+  https://github.com/Tran7123/sPacewalkeRs_wandering-wormholes
+abstract: p2p workshop
+license: MIT
+version: v1.0.0
+date-released: '2026-04-22'
